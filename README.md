@@ -8,7 +8,7 @@ MODIFIED BY -
 XekVMXx
 
 DEVELOPERS -
-XekVMXx
+XekVMXx ,
 AstraVMXx
 
 - FEATURES -
