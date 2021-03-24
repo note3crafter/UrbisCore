@@ -1,0 +1,3 @@
+capes:
+    # cape name      # cape permission      #cape id   #cape file   #cape img
+  - ["Nestle Cape","permission.cape.nestle","nestle_cape"]

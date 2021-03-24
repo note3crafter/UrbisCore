@@ -1,0 +1,27 @@
+{
+
+  "arena": {
+    "x": 251.8,
+    "y": 23.9,
+    "z": 260.4,
+    "level": "boss"
+  },
+
+  "spawn": {
+    "x": 286.5,
+    "y": 5.0,
+    "z": 231.6,
+    "level": "boss"
+  },
+
+  "stats": {
+    "health": 5000,
+    "scale": 2.5,
+    "attackDamage": 11,
+    "speed": 1,
+    "attackWait": 8,
+    "regenerationRate": 2
+  },
+
+  "skin": "argus.png"
+}

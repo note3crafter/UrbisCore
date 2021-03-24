@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.scarce_cannon",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1,
+				"visible_bounds_offset": [0, 0, 0]
+			},
+			"bones": [
+				{
+					"name": "unknown_bone",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 6, -9], "size": [1, 1, 17], "uv": [0, 0]},
+						{"origin": [-3, 4, -15], "size": [5, 5, 6], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}
