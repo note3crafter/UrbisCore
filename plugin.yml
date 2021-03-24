@@ -1,0 +1,7 @@
+name: UrbisCore
+main: core\Urbis
+author: xek
+load: POSTWORLD
+version: 1.0.0
+api: 3.0.0
+description: Server Factions Core for Urbis
